@@ -17,7 +17,7 @@ Currently, I’m focused on:
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python  
+- **Languages:** Python, Java
 - **Libraries:** NumPy, Pandas  
 - **Concepts:** Machine Learning, Data Analysis, NLP  
 - **Other:** DBMS, HTML, CSS, JavaScript  
@@ -47,7 +47,8 @@ Currently, I’m focused on:
 
 ## 🔗 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/jitesh-krishna-1b4167339  
-- 💻 GitHub: https://github.com/jitesh2511  
+- 💻 GitHub: https://github.com/jitesh2511
+- 📧 Email: jiteshkrishna06@gmail.com
 
 ---
 
