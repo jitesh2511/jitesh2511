@@ -1,6 +1,5 @@
 # Jitesh Krishna
-
-B.Sc. (Hons.) Mathematics, Hansraj College (University of Delhi)  
+ 
 Aspiring Machine Learning Engineer  
 
 ---
@@ -19,13 +18,25 @@ My current focus includes:
 ## Tech Stack
 
 - **Languages:** Python, Java  
-- **Libraries:** NumPy, Pandas  
+- **Libraries:** NumPy, Pandas, Scikit-learn
 - **Core Areas:** Machine Learning, Data Analysis, NLP  
 - **Other:** DBMS, HTML, CSS, JavaScript
 
 ---
 
 ## Featured Projects
+
+### FitLater
+- Built a structured EDA system focused on data understanding before machine learning  
+- Designed a modular pipeline: Descriptive → Diagnostics → Advisory  
+- Detects missing values, skew, outliers, correlation issues, and dataset inconsistencies  
+- Generates priority-based preprocessing recommendations with contextual reasoning  
+- Developed a custom interactive frontend using HTML, CSS, and JavaScript  
+- Integrated a FastAPI backend for dataset processing and structured API responses  
+- Implemented column-level analytics, diagnostics dashboards, and report generation  
+- Built a fully modular and test-driven architecture with 400+ unit/integration tests  
+- GitHub: https://github.com/jitesh2511/FitLater
+- Live Demo: https://fit-later.vercel.app
 
 ### Churn Prediction System
 - Built an end-to-end machine learning system for predicting customer churn using real-world telecom data  
@@ -35,14 +46,6 @@ My current focus includes:
 - Deployed both API and UI for real-time predictions
 - GitHub: https://github.com/jitesh2511/Churn-Prediction
 - Live Demo: https://churn-prediction-jitesh2511.streamlit.app
-
-### FitLater
-- Developed a structured EDA system for machine learning workflows  
-- Built a layered pipeline: Descriptive → Diagnostics → Advisory → Profile  
-- Provides automated issue detection (missing values, outliers, skew, correlation)  
-- Generates actionable preprocessing recommendations with reasoning  
-- Extended system with a custom frontend UI and FastAPI backend for interactive analysis
-- GitHub: https://github.com/jitesh2511/FitLater
 
 ### Spam Classifier
 - Built a machine learning model to classify spam and ham messages  
